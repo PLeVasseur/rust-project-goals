@@ -2,7 +2,7 @@
 
 | Metadata         |                                                              |
 | :--------------- | ------------------------------------------------------------ |
-| Point of contact | @plevasseur                                                  |
+| Point of contact | @PLeVasseur                                                  |
 | Status           | Proposed                                                     |
 | Tracking issue   |                                                              |
 | Zulip channel    | N/A                                                          |
